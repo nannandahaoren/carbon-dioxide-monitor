@@ -2,5 +2,20 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "python.formatting.provider": "none"
+    "python.formatting.provider": "none",
+    "files.encoding": "utf8",
+    "terminal.integrated.shellArgs.windows": [
+        "--encoding",
+        "utf8"
+    ],
+    "terminal.integrated.shellArgs.linux": [
+        "--encoding",
+        "utf8"
+    ],
+    "terminal.integrated.shellArgs.osx": [
+        "--encoding",
+        "utf8"
+    ],
+    "terminal.integrated.fontFamily": " 'Microsoft YaHei' , monospace",
+    "terminal.integrated.fontSize": 14
 }
