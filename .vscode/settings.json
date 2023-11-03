@@ -1,4 +1,13 @@
 {
+    "editor.formatOnType": true,
+"editor.formatOnSave": false,
+"http.proxyAuthorization": null,
+"prettier.useEditorConfig": true,
+"prettier.jsxSingleQuote": true,
+"prettier.singleQuote": true,
+"prettier.trailingComma": "none",
+"prettier.semi": false,
+
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
